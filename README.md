@@ -1,2 +1,2 @@
-# data-analyst-portfolio
-Portafolio de archivos creados en mi transición al análisis de datos.
+# Data-Analyst-Portfolio
+Portafolio de archivos creados durantemi transición al análisis de datos.
