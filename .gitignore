@@ -1,0 +1,16 @@
+# Datos crudos y privados — nunca entran al repo.
+# Esto es red de seguridad, no primera línea: las fuentes reales viven fuera
+# de cualquier repositorio. El .gitignore solo evita errores a futuro; no saca
+# nada del historial.
+*.xlsx
+*.csv
+datos/raw/
+datos/tai-loy/
+
+# Excepción explícita: el único dataset publicable, nombrado uno por uno.
+!proyecto-a-orden-produccion/datos/Pedido_Insumos_ANONIMIZADO.xlsx
+
+# Entorno
+.venv/
+__pycache__/
+.ipynb_checkpoints/

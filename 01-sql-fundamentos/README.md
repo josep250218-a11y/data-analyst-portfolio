@@ -1,1 +1,0 @@
-01-sql-fundamentos/README.md
