@@ -10,7 +10,7 @@ Ingeniero Industrial. Hoy manejo el almacén de una fábrica de sombreros en San
 |---|---|---|---|
 | [**A — Orden de producción**](proyecto-a-orden-produccion/) | Entra un pedido de 13,010 sombreros en 17 modelos: ¿cuánto material hace falta, alcanza el que hay, y dónde está el riesgo? | Power BI · DAX · Power Query · Python | **Publicado** |
 | **B — KPIs de almacén** | ¿Cómo se mide un almacén que no tenía métricas? Exactitud de inventario, rotación, aging, nivel de servicio a producción. | Excel · Power BI | En curso · ≤ 6/sep/2026 |
-| **C — SQL sobre movimientos SAP** | ¿Qué dicen los movimientos de almacén (MB51) de una cadena retail sobre su operación? | SQL (MySQL) | En curso · ≤ 30/ago/2026 |
+| **C — SQL sobre movimientos SAP** | ¿Qué dicen los movimientos de almacén (MB51) de una cadena retail sobre su operación? | SQL (MySQL) | En curso · ≤ 13/sep/2026 |
 
 Los proyectos B y C están listados con fecha porque están en construcción. No hay carpeta con humo: si no tiene contenido, no promete nada.
 
@@ -40,7 +40,7 @@ Industrial Engineer. I currently run the warehouse of a hat factory in San Franc
 |---|---|---|---|
 | [**A — Production order**](proyecto-a-orden-produccion/) | An order lands for 13,010 hats across 17 models: how much material does it take, is there enough, and where is the risk? | Power BI · DAX · Power Query · Python | **Published** |
 | **B — Warehouse KPIs** | How do you measure a warehouse that had no metrics? Inventory accuracy, turnover, stock aging, service level to production. | Excel · Power BI | In progress · by Sep 6, 2026 |
-| **C — SQL on SAP movements** | What do warehouse movements (MB51) from a retail chain say about how it actually runs? | SQL (MySQL) | In progress · by Aug 30, 2026 |
+| **C — SQL on SAP movements** | What do warehouse movements (MB51) from a retail chain say about how it actually runs? | SQL (MySQL) | In progress · by Sep 13, 2026 |
 
 B and C are listed with a date because they are being built. There are no empty folders here: if it has no content, it promises nothing.
 
